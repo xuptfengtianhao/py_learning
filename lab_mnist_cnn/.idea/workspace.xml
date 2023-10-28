@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d372784-8e4c-4ade-8a90-14c1fbe0e7a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1msg4QcLcGXuef9bioyedOirdWb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.gfgf">
+    <configuration name="cnn_mnist" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lab_cnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnn_mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gfgf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab_cnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gfgf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab_cnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gfgf" />
+        <item itemvalue="Python.cnn_mnist" />
+        <item itemvalue="Python.show" />
+        <item itemvalue="Python.cnn_mnist" />
+        <item itemvalue="Python.show" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d372784-8e4c-4ade-8a90-14c1fbe0e7a7" name="Default Changelist" comment="" />
+      <created>1610287520667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610287520667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="159" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611290824448">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="158" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1454.864@0.0.1454.864" timestamp="1610287895856" />
+    <state x="159" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1462.864@0.0.1462.864" timestamp="1611290824448" />
+    <state x="589" y="292" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611290382105">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="589" y="292" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1462.864@0.0.1462.864" timestamp="1611290382105" />
+    <state x="490" y="158" key="FileChooserDialogImpl" timestamp="1610520822122">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state x="485" y="158" key="FileChooserDialogImpl/0.0.1454.864@0.0.1454.864" timestamp="1610441852349" />
+    <state x="490" y="158" key="FileChooserDialogImpl/0.0.1468.864@0.0.1468.864" timestamp="1610520822122" />
+    <state x="209" y="45" key="SettingsEditor" timestamp="1610953766775">
+      <screen x="0" y="0" width="1468" height="864" />
+    </state>
+    <state x="207" y="45" key="SettingsEditor/0.0.1454.864@0.0.1454.864" timestamp="1610441924680" />
+    <state x="209" y="45" key="SettingsEditor/0.0.1468.864@0.0.1468.864" timestamp="1610953766775" />
+    <state x="398" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1614330397306">
+      <screen x="0" y="0" width="1623" height="978" />
+    </state>
+    <state x="398" y="301" key="com.intellij.ide.util.TipDialog/0.0.1623.978@0.0.1623.978" timestamp="1614330397306" />
+    <state x="163" y="181" width="926" height="652" key="dock-window-1" timestamp="1611293154141">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="163" y="181" width="926" height="652" key="dock-window-1/0.0.1462.864@0.0.1462.864" timestamp="1611293154141" />
+  </component>
+</project>
